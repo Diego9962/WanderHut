@@ -1,0 +1,1 @@
+export const TOKEN_SECRET = "ddb8df7e44c6d9026079cffbd06da858"; // Clave secreta para el token
